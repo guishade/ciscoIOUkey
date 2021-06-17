@@ -9,3 +9,8 @@ use latest libcripto in your system and make a link as that name
 
 error: key
 - execute the python script above
+- sudo nano .iourc
+- paste as the file print says
+
+error: permision denied in .iourc
+- sudo chown $user -R .iourc
